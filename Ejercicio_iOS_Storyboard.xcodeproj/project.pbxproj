@@ -17,6 +17,7 @@
 		D17ED2F42982E8B700FB6637 /* Ejercicio_iOS_StoryboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17ED2F32982E8B700FB6637 /* Ejercicio_iOS_StoryboardTests.swift */; };
 		D17ED2FE2982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17ED2FD2982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITests.swift */; };
 		D17ED3002982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17ED2FF2982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITestsLaunchTests.swift */; };
+		D17ED30D2982EB0A00FB6637 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D17ED30C2982EB0A00FB6637 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D17ED2F92982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Ejercicio_iOS_StoryboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D17ED2FD2982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ejercicio_iOS_StoryboardUITests.swift; sourceTree = "<group>"; };
 		D17ED2FF2982E8B700FB6637 /* Ejercicio_iOS_StoryboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ejercicio_iOS_StoryboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D17ED30C2982EB0A00FB6637 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D17ED2E72982E8B600FB6637 /* LaunchScreen.storyboard */,
 				D17ED2EA2982E8B600FB6637 /* Info.plist */,
 				D17ED2E22982E8B300FB6637 /* Ejercicio_iOS_Storyboard.xcdatamodeld */,
+				D17ED30C2982EB0A00FB6637 /* .gitignore */,
 			);
 			path = Ejercicio_iOS_Storyboard;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D17ED30D2982EB0A00FB6637 /* .gitignore in Resources */,
 				D17ED2E92982E8B600FB6637 /* LaunchScreen.storyboard in Resources */,
 				D17ED2E62982E8B600FB6637 /* Assets.xcassets in Resources */,
 				D17ED2E12982E8B300FB6637 /* Main.storyboard in Resources */,
