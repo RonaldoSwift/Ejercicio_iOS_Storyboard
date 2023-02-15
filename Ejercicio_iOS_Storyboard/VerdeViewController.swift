@@ -6,14 +6,20 @@
 //
 
 import UIKit
+import Core
+import Alamofire
+import Kingfisher
 
-class ViewController: UIViewController {
+class VerdeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func clickEnButton(_ sender: Any) {
+        saludar()
+    }
+    
 }
 
